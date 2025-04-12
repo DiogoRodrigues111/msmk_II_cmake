@@ -1,0 +1,3 @@
+C:/Embedded/ST/msmk_II_cmake/config_default/CMakeFiles/msmkII_cmake.dir
+C:/Embedded/ST/msmk_II_cmake/config_default/CMakeFiles/edit_cache.dir
+C:/Embedded/ST/msmk_II_cmake/config_default/CMakeFiles/rebuild_cache.dir
