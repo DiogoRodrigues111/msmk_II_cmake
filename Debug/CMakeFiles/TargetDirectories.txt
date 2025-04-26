@@ -1,0 +1,3 @@
+C:/Embedded/ST/msmk2/Debug/CMakeFiles/msmk2.dir
+C:/Embedded/ST/msmk2/Debug/CMakeFiles/edit_cache.dir
+C:/Embedded/ST/msmk2/Debug/CMakeFiles/rebuild_cache.dir
